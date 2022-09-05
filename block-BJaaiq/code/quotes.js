@@ -19,7 +19,7 @@ let quotes = [
     quoteAuthor: 'Johann Wolfgang von Goethe',
   },
   {
-    quoteText: 'Fate is in your hands and no one elses',
+    quoteText: 'Fate is in your hands and no one elses.',
     quoteAuthor: 'Byron Pulsifer',
   },
   {
