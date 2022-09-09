@@ -25,3 +25,7 @@ function getArea(r){
 
 }
 getArea();
+
+
+module.exports=getCircumfrence;
+module.exports=getArea;
